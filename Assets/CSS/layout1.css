@@ -43,6 +43,7 @@ main {
     padding-top: 0px;
     margin: 3rem;
     text-align: center;
+    min-height: 70vh;	
 }
 
 
