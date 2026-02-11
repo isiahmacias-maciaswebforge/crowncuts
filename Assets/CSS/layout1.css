@@ -2,6 +2,11 @@
 
 
 /* Gloabal Styles */
+/* Font Styles */
+:root {
+   --font-main: 'Inter', sans-serif;
+}
+
 /* Page Style Reset */
 * {
     margin: 0;
